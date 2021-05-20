@@ -1,0 +1,21 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1"
+https://video-auth8.iol.pt/live_tvi/live_tvi/edge_servers/tvi-240p/chunks.m3u8?nimblesessionid=235258437&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDIxIDY6NDY6MSBQTSZoYXNoX3ZhbHVlPUdZdkUrd2R4eXpITnVMV25wNHMvbGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NjFjNTEzYS0wYWZmLTQ0YWMtYTI0Zi1jMGE3ODk1OTUzMmI=
+#EXTINF:-1 tvg-id="2"
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8?token=1621656000_6aa4f7a6a6f2fd7eb6b45f5b4b7c90b880545acc
+#EXTINF:-1 tvg-id="3"
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b1290000_slpt.m3u8?token=1621656000_da2c0f5ecc420ff8984f9941b9bc03d954492846
+#EXTINF:-1 tvg-id="4"
+https://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-1 tvg-id="5"
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w1927338553.m3u8
+#EXTINF:-1 tvg-id="6"
+https://videos.impresa.pt/sic/2020-12-17/9223239d-408c-44db-928a-ff234bc65d28_final-advnce-spot-v03-redes.mp4/432p.m3u8
+#EXTINF:-1 tvg-id="7"
+https://streaming.cometa.link/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=ttcN8VMwYo6r1yqYURSoYQ&3U1G7qaTxrPbalZnEx=1621566241
+#EXTINF:-1 tvg-id="8"
+https://streaming.cometa.link/a/hls1/telecinepremium.m3u8?mu3zAQc9HC3GbwJq=aTX_x22KnwAlLqrcthFJuQ&3U1G7qaTxrPbalZnEx=1621566364
+#EXTINF:-1 tvg-id="9"
+https://streaming.cometa.link/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=3FKNX23shY3VBPoYjf0BDw&3U1G7qaTxrPbalZnEx=1621566487
+#EXTINF:-1 tvg-id="10"
+https://streaming.cometa.link/a/hls1/syfy.m3u8?mu3zAQc9HC3GbwJq=QHbqJtpUiaYSFqQHWrfGog&3U1G7qaTxrPbalZnEx=1621566631
